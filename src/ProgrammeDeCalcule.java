@@ -32,6 +32,8 @@ public class ProgrammeDeCalcule {
         c = a * b;
         return c;
     }
+
+    //comment
     private static int division (int a, int b){
         int c;
         c = a / b;
